@@ -1,0 +1,9 @@
+{
+  "recipient_chat_url": "https://www.messenger.com/t/PUT_CHAT_USERNAME_OR_ID_HERE",
+  "send_at": "2026-06-09 09:00",
+  "message": "Hello! This is my scheduled message.",
+  "browser": "chrome",
+  "profile_folder": "browser_profile",
+  "wait_after_send_seconds": 10,
+  "close_after_send": false
+}

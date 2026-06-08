@@ -1,0 +1,18 @@
+# Private local settings
+messenger_automation_config.json
+
+# Browser login/session data
+browser_profile/
+browser_profile_fresh_*/
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# Editor folders
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
